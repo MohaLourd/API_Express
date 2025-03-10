@@ -45,5 +45,6 @@ http://localhost:9000/api-docs
 - `typescript`: Suport per a TypeScript.
 - `@types/*`: Definicions de tipus per a biblioteques utilitzades.
 
-
+Esta vez era mi semiinario y para hacer el ejercicio no he necesitado nada. Para hacer el seminario me reforce con todos los videos que pasamos los del seminario.
+URL VIDEO: https://drive.google.com/file/d/11a7VzVM0uCf4K3tkT09rOC61hjJZOU9y/view?usp=sharing
 
